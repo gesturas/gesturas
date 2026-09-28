@@ -18,9 +18,10 @@ Based in Spain, Gesturas Technology Group develops its own SaaS products, tailor
 | --- | --- |
 | 🟢 **[GTG Arreglos](https://gtg-arreglos.com/)** | Management software for clothing alteration and tailoring workshops: customers, garments, work orders, tickets, invoicing, payments, notifications, statistics, multi-store operations and more. |
 | 🔵 **[GTG ECI](https://gtg-eci.com/)** | A specialised alteration-workshop platform designed around the operational workflows used within El Corte Inglés. |
-| 🟠 **GTG Facturas** | Straightforward invoicing software for freelancers and small businesses in Spain, designed to keep billing and administration simple. |
-| 🟣 **GTG RRHH** | Digital employee time tracking, attendance, holidays and workforce administration. |
-| 🔴 **GTG Studio** | Websites, digital products and custom technical solutions for our own projects and for our clients. |
+| 🟠 **[GTG Facturas](https://gtg-facturas.com/)** | Straightforward invoicing software for freelancers and small businesses in Spain, designed to keep billing and administration simple. |
+| 🟣 **[GTG RRHH](https://gtg-rrhh.com/)** | Digital employee time tracking, attendance, holidays and workforce administration. |
+| 🔴 **[GTG Studio](https://gtg-studio.com/)** | Websites, digital products and custom technical solutions for our own projects and for our clients. |
+| 🟡 **[GTG RGPD](http://gtg-rgpd.com/)** | Digital tools and support for managing data protection and RGPD compliance requirements. |
 
 ---
 
@@ -83,7 +84,7 @@ That matters to us because we use many of the same technologies, processes and i
 
 Our ecosystem includes:
 
-**GTG Arreglos** · **GTG ECI** · **GTG Facturas** · **GTG RRHH** · **GTG Studio**
+**[GTG Arreglos](https://gtg-arreglos.com/)** · **[GTG ECI](https://gtg-eci.com/)** · **[GTG Facturas](https://gtg-facturas.com/)** · **[GTG RRHH](https://gtg-rrhh.com/)** · **[GTG Studio](https://gtg-studio.com/)** · **[GTG RGPD](http://gtg-rgpd.com/)**
 
 Some of our production repositories are intentionally private because they contain commercial software and client projects. GitHub is nevertheless an important part of how we develop, version and maintain our technology.
 
